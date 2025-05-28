@@ -1,2 +1,3 @@
-# crp1
-primeiro repositorio feito para projetos do crpa
+git init                      # Inicializa um repositório Git local
+git add .                    # Adiciona todos os arquivos à staging area
+git commit -m "primeiro commit"  # Cria o commit inicial
